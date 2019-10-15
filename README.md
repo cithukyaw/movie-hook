@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Basically, the app will be able to search for movies via the [OMDB API](http://www.omdbapi.com/) and render the results to the user.  Based on https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/
+
 ## Available Scripts
 
 In the project directory, you can run:
